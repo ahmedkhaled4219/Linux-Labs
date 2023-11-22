@@ -73,3 +73,64 @@
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 
 ![13](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/577d44b4-66ac-4fe0-aa21-a1dcab5819c1)
+
+# LAB 2
+
+ ### 1. Create a user account with the following attribute
+ ### username: islam
+ ### Fullname/comment: Islam Askar
+ ### Password: islam
+![1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/a084ec48-aa1a-47ef-b5bc-6606ee668f52)
+
+ 
+### 2. Create a user account with the following attribute
+ ### Username: baduser
+ ### Full name/comment: Bad User
+ ### Password: baduser
+![2](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/e8dd30cd-a8a4-4898-9bac-fefe01e2c59a)
+
+
+### 3. Create a supplementary (Secondary) group called pgroup with group ID of 30000
+![3,4](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/7e3e498d-ef63-4ce2-bba2-b7a3ac9eb834)
+
+
+### 4. Create a supplementary group called badgroup
+![3,4](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/b0f8e6e0-7cb8-4fc2-9eca-1fbb14133704)
+
+### 5. Add islam user to the pgroup group as a supplementary group
+![5](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/311a5e47-c8b8-41c4-8e81-21c665bafdf8)
+
+
+### 6. Modify the password of islam's account to password
+
+
+### 7. Modify islam's account so the password expires after 30 days
+
+
+### 8. Lock bad user account so he can't log in
+
+### 9. Delete bad user account
+
+### 10. Delete the supplementary group called badgroup.
+
+### 13. Create a folder called myteam in your home directory and change its permissions to
+### read only for the owner.
+
+### 14. Log out and log in by another user
+
+### 15. Try to access (by cd command) the folder (myteam)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
