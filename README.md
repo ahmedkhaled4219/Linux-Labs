@@ -1,5 +1,7 @@
 # Linux-Labs
 
+# LAB 1
+
 ####   cat: 
 #####          
 #####      
@@ -74,6 +76,8 @@
 
 ![13](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/577d44b4-66ac-4fe0-aa21-a1dcab5819c1)
 
+## ...........................................................................................................
+
 # LAB 2
 
  ### 1. Create a user account with the following attribute
@@ -120,10 +124,37 @@
 
 ### 15. Try to access (by cd command) the folder (myteam)
 
+## ................................................................................................
 
+# LAB 3
 
+### 1. Using vi write your CV in the file mycv. Your CV should include your name, age, school,
+### college, experience,...
+![1 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/c7e8d224-6c65-467f-a089-ee339096c702)
 
+![1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/efff0eed-f986-4902-b4ac-90377f967706)
 
+### 2. Open mycv file using vi command then: Without using arrows state how to:
+## a. Move the cursor down one line at time.
+ By pressing j in the keyboard
+
+## b. Move the cursor up one line at time.
+By pressing k in the keyboard
+
+ ## c. Search for word age
+ Enter in the command line mode -> :/Age
+ ![2 c](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/83568300-bdd3-4197-8bf6-1615b48c38b9)
+
+### d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
+  press 5G in the keyboard 
+  OR Enter in the command line mode -> :5
+  
+### e. Delete the line you are on and line 5.
+Enter in the command line mode -> :1d
+Enter in the command line mode -> 5d
+
+### f. How to step to the end of line and change to writing mode in one-step.
+By pressing A in the keyboard
 
 
 
