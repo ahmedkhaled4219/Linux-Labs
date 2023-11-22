@@ -181,7 +181,16 @@ echo and printenv
 
 ![7](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/c4446efa-611c-4b15-b897-54077d15417c)
 
+### 8. State the initialization files of: sh, ksh, bash.
 
+### 9. Edit in your profile to display date at login and change your prompt permanently.
+
+### 10.Execute the following command :
+ ### echo \ then press enter
+### What is the purpose of \ ?
+### Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
+
+### 11.Create a Bash shell alias named ls for the “ls –l” command
 
 
 
