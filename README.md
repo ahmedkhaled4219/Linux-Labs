@@ -151,11 +151,35 @@ By pressing k in the keyboard
   
 ### e. Delete the line you are on and line 5.
 Enter in the command line mode -> :1d
+
 Enter in the command line mode -> 5d
 
 ### f. How to step to the end of line and change to writing mode in one-step.
 By pressing A in the keyboard
 
+### 3. List the available shells in your system.
+
+![3](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/63f96c7c-defb-4e8c-8b54-f4ec45f0d593)
+
+### 4. List the environment variables in your current shell.
+
+![4](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/ff903231-96b4-4172-a081-fbe7709d2191)
+
+
+### 5. List all of the environment variables for the bash shell.
+
+man bash
+
+### 6. What are the commands that list the value of a specific variable?
+
+echo and printenv
+
+![6](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/a37483a1-e0f6-4a97-b54c-a02797f7f2e7)
+
+
+### 7. Display your current shell name.
+
+![7](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/c4446efa-611c-4b15-b897-54077d15417c)
 
 
 
