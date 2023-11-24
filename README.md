@@ -107,22 +107,35 @@
 
 ### 6. Modify the password of islam's account to password
 
+![6](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/a48472e5-75a3-4763-8362-ae6bca2ee2a2)
 
 ### 7. Modify islam's account so the password expires after 30 days
 
+![7](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/7bef7c17-0946-403a-95cf-ae1f139c152b)
 
 ### 8. Lock bad user account so he can't log in
 
+![8](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/2fcce678-376c-4fc1-b718-d434afbfbb0c)
 ### 9. Delete bad user account
 
+![9](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/aa3cf68f-d542-455d-9c71-a8294e7cc496)
+
 ### 10. Delete the supplementary group called badgroup.
+
+![10](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/0a9babdb-02ea-489d-aa43-1dcb45c8c3cd)
 
 ### 13. Create a folder called myteam in your home directory and change its permissions to
 ### read only for the owner.
 
+![13](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/7a68c7c4-a7fd-48f3-a5b3-89d65d03e08e)
+
 ### 14. Log out and log in by another user
 
+![14](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/c6d938d3-6f32-49ec-9a43-8710879b1aad)
+
 ### 15. Try to access (by cd command) the folder (myteam)
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/2b050545-cb7e-4126-848e-58b2070c3794)
 
 ## ................................................................................................
 
