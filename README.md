@@ -137,6 +137,32 @@
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/2b050545-cb7e-4126-848e-58b2070c3794)
 
+### 16. Using the command Line
+### Change the permissions of oldpasswd file to give owner read and write
+### permissions and for group write and execute and execute only for the others
+### (using chmod in 2 different ways)
+
+![16](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/c802825c-65e1-4141-ba51-86149c3390b1)
+
+### Change your default permissions to be as above.
+
+![16 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/29cf69a7-a70c-49f9-9671-9d49c0e5b49e)
+
+### What is the maximum permission a file can have, by default when it is just
+### created? And what is that for directory.
+Max permission for file is : 666 
+
+Max permission for directory : 777
+
+ةةM
+ةشء
+### Change your default permissions to be no permission to everyone then create a
+### directory and a file to verify.
+
+![16 2](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/bfef38b9-26fd-4289-89b7-c16acd20db14)
+
+![16 3](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/fd7bd414-b185-4fed-9d15-fcaab10c8ec2)
+
 ## ................................................................................................
 
 # LAB 3
