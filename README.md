@@ -172,9 +172,12 @@ The minimum permisssion needed for target directory is : wx
 ### Copy a file (permission for source file and and permission for target parent
 ### directory)
 
+The minimum permission needed for source file is : r
+The minimum permisssion needed for target directory is : wx
 
 ### Delete a file
----
+
+wx
 
 ### Change to a directory
 x
@@ -187,7 +190,8 @@ rx for ls-l
 r
 
 ### Modify a file content
-
+w for non interactive tool
+rw for interactive tool (vi)
 
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what
 ### happened.
@@ -195,6 +199,9 @@ r
 
 ### 19. What is the difference between the “x” permission for a file and for a
 ### directory?
+
+x permission for file is to run the file
+x permission for a directory is to cd 
 
 ## ................................................................................................
 
