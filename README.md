@@ -164,9 +164,9 @@ Max permission for directory : 777
 
 ### 17. What are the minimum permission needed for:
 ### Copy a directory (permission for source directory and permissions for target
-## parent directory)
+### parent directory)
 
-The minimum permission needed for source directory is : x
+The minimum permission needed for source directory is : r
 The minimum permisssion needed for target directory is : wx
 
 ### Copy a file (permission for source file and and permission for target parent
@@ -177,17 +177,17 @@ The minimum permisssion needed for target directory is : wx
 
 ### Delete a file
 
-wx
+ for the soucre directory : wx
 
 ### Change to a directory
-x
+for the directory : x
 
 ### List a directory content (ls command)
 r
 
 rx for ls-l
 ### View a file content (more/cat command)
-r
+for the file : r
 
 ### Modify a file content
 w for non interactive tool
