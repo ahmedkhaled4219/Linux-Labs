@@ -184,14 +184,23 @@ echo and printenv
 ### 8. State the initialization files of: sh, ksh, bash.
 
 ### 9. Edit in your profile to display date at login and change your prompt permanently.
+To display date at login permanently I wrote this command PS1="u\@\t" in ~/bash_profile
+
+To change my prompt permanently I wrote this command PS1="\u@\t\W>>" in ~/bashrc
 
 ### 10.Execute the following command :
  ### echo \ then press enter
 ### What is the purpose of \ ?
 ### Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
 
+The prupose of \ is to open second prompt and take input 
+and > is the indicator of  PS2 and this how i changed it 
+
+![10](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/3b497d13-f46b-44df-9a81-2d1fc5bb6bda)
+
 ### 11.Create a Bash shell alias named ls for the “ls –l” command
 
+![11](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/18311d58-2bef-4879-8fa6-a517a11d577c)
 
 
 
