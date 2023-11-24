@@ -202,6 +202,8 @@ and > is the indicator of  PS2 and this how i changed it
 
 ![11](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/18311d58-2bef-4879-8fa6-a517a11d577c)
 
+#.....................................................................................................
+
 
 
 
