@@ -3,11 +3,11 @@
 # LAB 1
 
 ####   cat:         
-#####     cat command displays the entire output once at the terminal 
-#####       
+           cat command displays the entire output once at the terminal 
+       
 ####   more:
-#####      more command displays the output until the end of terminal screen allowing you 
-#####       to scroll down or viewing more by pressing enter 
+      more command displays the output until the end of terminal screen allowing you 
+      to scroll down or viewing more by pressing enter 
 
 ### 3. What is the difference between rm and rmdir using man?
 #### rm 
@@ -143,9 +143,9 @@
 
 ### What is the maximum permission a file can have, by default when it is just
 ### created? And what is that for directory.
-Max permission for file is : 666 
+     Max permission for file is : 666 
 
-Max permission for directory : 777
+    Max permission for directory : 777
 
 
 ### Change your default permissions to be no permission to everyone then create a
@@ -159,32 +159,32 @@ Max permission for directory : 777
 ### Copy a directory (permission for source directory and permissions for target
 ### parent directory)
 
-The minimum permission needed for source directory is : r
-The minimum permisssion needed for target directory is : wx
+    The minimum permission needed for source directory is : r
+    The minimum permisssion needed for target directory is : wx
 
 ### Copy a file (permission for source file and and permission for target parent
 ### directory)
 
-The minimum permission needed for source file is : r
-The minimum permisssion needed for target directory is : wx
+    The minimum permission needed for source file is : r
+    The minimum permisssion needed for target directory is : wx
 
 ### Delete a file
 
- for the soucre directory : wx
+    for the soucre directory : wx
 
 ### Change to a directory
-for the directory : x
+    for the directory : x
 
 ### List a directory content (ls command)
-r
+    r
 
-rx for ls-l
+    rx for ls-l
 ### View a file content (more/cat command)
-for the file : r
+    for the file : r
 
-### Modify a file content
-w for non interactive tool
-rw for interactive tool (vi)
+### Modify a file content 
+    w for non interactive tool
+    rw for interactive tool (vi)
 
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what
 ### happened.
@@ -193,8 +193,8 @@ rw for interactive tool (vi)
 ### 19. What is the difference between the “x” permission for a file and for a
 ### directory?
 
-x permission for file is to run the file
-x permission for a directory is to cd 
+    x permission for file is to run the file
+    x permission for a directory is to cd 
 
 ## ................................................................................................
 
@@ -208,26 +208,26 @@ x permission for a directory is to cd
 
 ### 2. Open mycv file using vi command then: Without using arrows state how to:
 ## a. Move the cursor down one line at time.
- By pressing j in the keyboard
+    By pressing j in the keyboard
 
 ## b. Move the cursor up one line at time.
-By pressing k in the keyboard
+    By pressing k in the keyboard
 
  ## c. Search for word age
- Enter in the command line mode -> :/Age
+    Enter in the command line mode -> :/Age
  ![2 c](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/83568300-bdd3-4197-8bf6-1615b48c38b9)
 
 ### d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
-  press 5G in the keyboard 
-  OR Enter in the command line mode -> :5
+    press 5G in the keyboard 
+    OR Enter in the command line mode -> :5
   
 ### e. Delete the line you are on and line 5.
-Enter in the command line mode -> :1d
+    Enter in the command line mode -> :1d
 
-Enter in the command line mode -> 5d
+    Enter in the command line mode -> 5d
 
 ### f. How to step to the end of line and change to writing mode in one-step.
-By pressing A in the keyboard
+    By pressing A in the keyboard
 
 ### 3. List the available shells in your system.
 
@@ -240,11 +240,11 @@ By pressing A in the keyboard
 
 ### 5. List all of the environment variables for the bash shell.
 
-man bash
+    man bash
 
 ### 6. What are the commands that list the value of a specific variable?
 
-echo and printenv
+    echo and printenv
 
 ![6](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/a37483a1-e0f6-4a97-b54c-a02797f7f2e7)
 
@@ -256,17 +256,17 @@ echo and printenv
 ### 8. State the initialization files of: sh, ksh, bash.
 
 ### 9. Edit in your profile to display date at login and change your prompt permanently.
-To display date at login permanently I wrote this command PS1="u\@\t" in ~/bash_profile
+    To display date at login permanently I wrote this command PS1="u\@\t" in ~/bash_profile
 
-To change my prompt permanently I wrote this command PS1="\u@\t\W>>" in ~/bashrc
+    To change my prompt permanently I wrote this command PS1="\u@\t\W>>" in ~/bashrc
 
 ### 10.Execute the following command :
  ### echo \ then press enter
 ### What is the purpose of \ ?
 ### Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
 
-The prupose of \ is to open second prompt and take input 
-and > is the indicator of  PS2 and this how i changed it 
+    The prupose of \ is to open second prompt and take input 
+    and > is the indicator of  PS2 and this how i changed it 
 
 ![10](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/3b497d13-f46b-44df-9a81-2d1fc5bb6bda)
 
