@@ -166,22 +166,25 @@ Max permission for directory : 777
 ### Copy a directory (permission for source directory and permissions for target
 ## parent directory)
 
+The minimum permission needed for source directory is : x
+The minimum permisssion needed for target directory is : wx
 
 ### Copy a file (permission for source file and and permission for target parent
 ### directory)
 
 
 ### Delete a file
-
+---
 
 ### Change to a directory
-
+x
 
 ### List a directory content (ls command)
+r
 
-
+rx for ls-l
 ### View a file content (more/cat command)
-
+r
 
 ### Modify a file content
 
