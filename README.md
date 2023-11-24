@@ -2,26 +2,19 @@
 
 # LAB 1
 
-####   cat: 
-#####          
-#####      
+####   cat:         
+#####     cat command displays the entire output once at the terminal 
 #####       
 ####   more:
-#####      
-#####       
+#####      more command displays the output until the end of terminal screen allowing you 
+#####       to scroll down or viewing more by pressing enter 
 
 ### 3. What is the difference between rm and rmdir using man?
 #### rm 
-##### 
-##### 
-##### 
-#####     
-#####     
+       rm command is used to delete a file and if we added
+       -r w can delete a non empty directory
 #### rmdir
-##### 
-#####
-##### 
-#####     
+         rmdir is used to delete a empty directory  
 
 ### 4. Create the following hierarchy under your home directory:
 ![4](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/0a613881-eefc-4faa-89b2-7ab7def261a6)
