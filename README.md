@@ -171,6 +171,7 @@
 ### Delete a file
 
     for the soucre directory : wx
+    for the file : NO need for permissions
 
 ### Change to a directory
     for the directory : x
