@@ -320,19 +320,24 @@
 ![9 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8d0ed540-85a2-4b58-be80-5fc80fcd2e78)
 
 #### 10. Issue the command sleep 100.
-![UNFOUND]()
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/1625493b-e957-45bd-bc60-36cb6b318c32)
 
 #### 11. Stop the last command.
-![UNFOUND]()
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/1dde2659-55fa-40ba-8902-ac81b607c5f8)
 
 #### 12. Resume the last command in the background
-![UNFOUND]()
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/d3000065-25da-4d42-bc04-06b2463c39d2)
 
 #### 13. Issue the jobs command and see its output.
-![UNFOUND]()
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/35574271-f60e-495d-8398-c95a6775151d)
 
 #### 14. Send the sleep command to the foreground and send it again to the background.
-![UNFOUND]()
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/968aa3f2-ab51-4b1f-acda-26d17deb0b2f)
 
 #### 15. Kill the sleep command.
 
