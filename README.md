@@ -369,38 +369,48 @@
 
 ### 2. What is the command used to view the content of a compressed file.
 
-![Uploading 2.png…]()
+![2](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/72956572-61f0-41b2-812d-88a2913d22db)
+
 
 ### 3. Backup /etc directory using tar utility.
-![UNFOUND]()
 
+![3](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/be4aa219-cacb-424e-877f-3c43fb915975)
 ### 4. Starting from your home directory, find all files that were modified in the last two day.
-![UNFOUND]()
+
+![4](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8a571d0e-29b5-4964-b770-193e145bb5b4)
 
 ### 5. Starting from /etc, find files owned by root user.
-![UNFOUND]()
+
+![5](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/7a00f910-8c46-4551-b249-373d2564f691)
 
 ### 6. Find all directories in your home directory.
-![UNFOUND]()
+
+![6](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/2751981a-3143-44d0-8530-9378ea42366b)
 
 ### 7. Write a command to search for all files on the system that, its name is “.profile”.
-![UNFOUND]()
+![7](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/5c7b5241-dd70-4c2b-9fe0-9120cd18b8d4)
 
 ### 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
-![UNFOUND]()
+
+![8](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/13ea86c0-0e85-4475-ad52-4cc9c867b30b)
 
 ### 9. List the inode numbers of /, /etc, /etc/hosts.
-![UNFOUND]()
+
+![9](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/46040d8b-62e1-4ee2-916a-33b44d4fb164)
+
+![9 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/1d60c018-3825-4d6a-8b80-665d1cdf3087)
 
 ### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
-file you copied, and then use these commands again, and check the output.
-![UNFOUND]()
+
+![10](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/177802da-cff8-4d3f-8aac-7f0282237b26)
 
 ### 11. Create a symbolic link of /etc/passwd in /boot.
-![UNFOUND]() 
+
+![11](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/e5935193-a540-4c8c-98d4-561706e2c476)
 
 ### 12. Create a hard link of /etc/passwd in /boot. Could you? Why
  
+![12](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/28a2c33b-12a5-49ae-bee4-29f932587541)
 
 
 
