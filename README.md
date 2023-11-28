@@ -275,7 +275,115 @@
 
 ![11](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/18311d58-2bef-4879-8fa6-a517a11d577c)
 
-#.....................................................................................................
+## .....................................................................................................
+
+# LAB4
+
+### 1.List the user commands and redirect the output to /tmp/commands.list
+![1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/df88c557-1389-4643-988a-0ed66213b6f6)
+
+
+### 2.Count the number of user commands
+![2](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/622d799b-f063-4a57-9d19-2b775e442f51)
+
+
+### 3.Get all the users names whose first character in their login is ‘g’.
+![3](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/6e2a9d11-b55b-45bb-8c4c-95947d462381)
+
+
+### 4.Get the logins name and full names (comment) of logins starts with “g”.
+
+
+![4](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8b92de41-2d9b-4a4f-8bfd-bb3581fef3a3)
+
+### 5.Save the output of the last command sorted by their full names in a file.
+
+
+
+
+
+
+#### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
+![UNFOUND]()
+
+#### 7. Display the number of users who is logged now to the system.
+![UNFOUND]()
+
+#### 8. Display lines 7 to line 10 of /etc/passwd file
+![UNFOUND]()
+
+#### 9. What happens if you execute:cat filename1 | cat filename2/ls | rm/ ls /etc/passwd | wc –l
+![UNFOUND]()
+
+#### 10. Issue the command sleep 100.
+![UNFOUND]()
+
+#### 11. Stop the last command.
+![UNFOUND]()
+
+#### 12. Resume the last command in the background
+![UNFOUND]()
+
+#### 13. Issue the jobs command and see its output.
+![UNFOUND]()
+
+#### 14. Send the sleep command to the foreground and send it again to the background.
+![UNFOUND]()
+
+#### 15. Kill the sleep command.
+![UNFOUND]()
+
+#### 16. Display your processes only
+![UNFOUND]()
+
+#### 17. Display all processes except yours
+![UNFOUND]()
+
+#### 18. Use the pgrep command to list your processes only
+![UNFOUND]()
+
+#### 19. Kill your processes only.
+![UNFOUND]()
+
+
+### lab5
+#### 1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands.
+![UNFOUND]()
+
+#### 2. What is the command used to view the content of a compressed file.
+![UNFOUND]()
+
+#### 3. Backup /etc directory using tar utility.
+![UNFOUND]()
+
+#### 4. Starting from your home directory, find all files that were modified in the last two day.
+![UNFOUND]()
+
+#### 5. Starting from /etc, find files owned by root user.
+![UNFOUND]()
+
+#### 6. Find all directories in your home directory.
+![UNFOUND]()
+
+#### 7. Write a command to search for all files on the system that, its name is “.profile”.
+![UNFOUND]()
+
+#### 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
+![UNFOUND]()
+
+#### 9. List the inode numbers of /, /etc, /etc/hosts.
+![UNFOUND]()
+
+#### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
+file you copied, and then use these commands again, and check the output.
+![UNFOUND]()
+
+#### 11. Create a symbolic link of /etc/passwd in /boot.
+![UNFOUND]() 
+
+#### 12. Create a hard link of /etc/passwd in /boot. Could you? Why
+##### 
+![UNFOUND]()
 
 
 
