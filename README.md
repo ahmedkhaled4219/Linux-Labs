@@ -298,16 +298,17 @@
 
 ### 5.Save the output of the last command sorted by their full names in a file.
 
+![5 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/eb3f9a4f-3f6a-47ff-b25c-ffff1559b3cb)
+
+ ![5](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/6c0884be-9a71-4304-b92a-fe4a811170c8)
+
+### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
+
+ ![Uploading 6.png…]()
+
+### 7. Display the number of users who is logged now to the system.
 
 
-
-
-
-#### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
-![UNFOUND]()
-
-#### 7. Display the number of users who is logged now to the system.
-![UNFOUND]()
 
 #### 8. Display lines 7 to line 10 of /etc/passwd file
 ![UNFOUND]()
