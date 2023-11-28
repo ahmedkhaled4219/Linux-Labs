@@ -304,17 +304,20 @@
 
 ### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
 
- ![Uploading 6.png…]()
+![6](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/2ec50231-69bc-41aa-afd9-032f91011978)
 
 ### 7. Display the number of users who is logged now to the system.
 
-
-
+![7](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/ba01cc5e-dc71-42fd-9fd7-b0ff53a21f01)
 #### 8. Display lines 7 to line 10 of /etc/passwd file
-![UNFOUND]()
+![8](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8629a91c-eb1d-41f9-8537-5a9140fda453)
+
 
 #### 9. What happens if you execute:cat filename1 | cat filename2/ls | rm/ ls /etc/passwd | wc –l
-![UNFOUND]()
+
+![9](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/17b8e3bd-5bc1-4e6c-89fe-82a8c6a5c62f)
+
+![9 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8d0ed540-85a2-4b58-be80-5fc80fcd2e78)
 
 #### 10. Issue the command sleep 100.
 ![UNFOUND]()
@@ -332,19 +335,25 @@
 ![UNFOUND]()
 
 #### 15. Kill the sleep command.
-![UNFOUND]()
+
+![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/4f1a8982-ab09-4465-979a-eb9de6cb125e)
 
 #### 16. Display your processes only
-![UNFOUND]()
+
+![16](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/71ae78cd-5dfd-4a0c-ac0b-6ac7cc3cb5eb)
 
 #### 17. Display all processes except yours
-![UNFOUND]()
+
+![17](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/e9b0b60d-0ebc-4cc8-a21b-5d83dc017f56)
 
 #### 18. Use the pgrep command to list your processes only
-![UNFOUND]()
 
-#### 19. Kill your processes only.
-![UNFOUND]()
+![18](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/23fe40cb-ff43-4598-82bd-7240f222516b)
+
+### 19. Kill your processes only.
+
+ pkill -u akhaled
+          
 
 
 ### lab5
