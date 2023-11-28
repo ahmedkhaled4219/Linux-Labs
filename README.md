@@ -309,49 +309,49 @@
 ### 7. Display the number of users who is logged now to the system.
 
 ![7](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/ba01cc5e-dc71-42fd-9fd7-b0ff53a21f01)
-#### 8. Display lines 7 to line 10 of /etc/passwd file
+### 8. Display lines 7 to line 10 of /etc/passwd file
 ![8](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8629a91c-eb1d-41f9-8537-5a9140fda453)
 
 
-#### 9. What happens if you execute:cat filename1 | cat filename2/ls | rm/ ls /etc/passwd | wc –l
+### 9. What happens if you execute:cat filename1 | cat filename2/ls | rm/ ls /etc/passwd | wc –l
 
 ![9](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/17b8e3bd-5bc1-4e6c-89fe-82a8c6a5c62f)
 
 ![9 1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/8d0ed540-85a2-4b58-be80-5fc80fcd2e78)
 
-#### 10. Issue the command sleep 100.
+### 10. Issue the command sleep 100.
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/1625493b-e957-45bd-bc60-36cb6b318c32)
 
-#### 11. Stop the last command.
+### 11. Stop the last command.
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/1dde2659-55fa-40ba-8902-ac81b607c5f8)
 
-#### 12. Resume the last command in the background
+### 12. Resume the last command in the background
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/d3000065-25da-4d42-bc04-06b2463c39d2)
 
-#### 13. Issue the jobs command and see its output.
+### 13. Issue the jobs command and see its output.
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/35574271-f60e-495d-8398-c95a6775151d)
 
-#### 14. Send the sleep command to the foreground and send it again to the background.
+### 14. Send the sleep command to the foreground and send it again to the background.
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/968aa3f2-ab51-4b1f-acda-26d17deb0b2f)
 
-#### 15. Kill the sleep command.
+### 15. Kill the sleep command.
 
 ![15](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/4f1a8982-ab09-4465-979a-eb9de6cb125e)
 
-#### 16. Display your processes only
+### 16. Display your processes only
 
 ![16](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/71ae78cd-5dfd-4a0c-ac0b-6ac7cc3cb5eb)
 
-#### 17. Display all processes except yours
+### 17. Display all processes except yours
 
 ![17](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/e9b0b60d-0ebc-4cc8-a21b-5d83dc017f56)
 
-#### 18. Use the pgrep command to list your processes only
+### 18. Use the pgrep command to list your processes only
 
 ![18](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/23fe40cb-ff43-4598-82bd-7240f222516b)
 
@@ -359,46 +359,49 @@
 
  pkill -u akhaled
           
+## ..........................................................................................................
 
+# LAB5
 
-### lab5
-#### 1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands.
+### 1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands.
+
+![1](https://github.com/ahmedkhaled4219/Linux-Labs/assets/146847357/6ee2ad52-a385-4fd5-b717-aef17e354b06)
+
+### 2. What is the command used to view the content of a compressed file.
+
+![Uploading 2.png…]()
+
+### 3. Backup /etc directory using tar utility.
 ![UNFOUND]()
 
-#### 2. What is the command used to view the content of a compressed file.
+### 4. Starting from your home directory, find all files that were modified in the last two day.
 ![UNFOUND]()
 
-#### 3. Backup /etc directory using tar utility.
+### 5. Starting from /etc, find files owned by root user.
 ![UNFOUND]()
 
-#### 4. Starting from your home directory, find all files that were modified in the last two day.
+### 6. Find all directories in your home directory.
 ![UNFOUND]()
 
-#### 5. Starting from /etc, find files owned by root user.
+### 7. Write a command to search for all files on the system that, its name is “.profile”.
 ![UNFOUND]()
 
-#### 6. Find all directories in your home directory.
+### 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
 ![UNFOUND]()
 
-#### 7. Write a command to search for all files on the system that, its name is “.profile”.
+### 9. List the inode numbers of /, /etc, /etc/hosts.
 ![UNFOUND]()
 
-#### 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
-![UNFOUND]()
-
-#### 9. List the inode numbers of /, /etc, /etc/hosts.
-![UNFOUND]()
-
-#### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
+### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
 file you copied, and then use these commands again, and check the output.
 ![UNFOUND]()
 
-#### 11. Create a symbolic link of /etc/passwd in /boot.
+### 11. Create a symbolic link of /etc/passwd in /boot.
 ![UNFOUND]() 
 
-#### 12. Create a hard link of /etc/passwd in /boot. Could you? Why
-##### 
-![UNFOUND]()
+### 12. Create a hard link of /etc/passwd in /boot. Could you? Why
+ 
+
 
 
 
